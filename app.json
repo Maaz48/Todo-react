@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "MaazTodoApp",
+    "slug": "maaztodoapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/Maaz48"
+  },
+  "name": "my-app"
+}
